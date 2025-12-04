@@ -36,7 +36,8 @@ emp1.apply_bonus()  # 16000 (20% of salary)
 
 # Get details as dictionary
 emp1.get_details()
-# {'name': 'Rahul', 'department': 'Engineering', 'salary': 80000, 'bonus': 16000}
+
+{'name': 'Rahul', 'department': 'Engineering', 'salary': 80000, 'bonus': 16000}
 
 # OOP Concepts
 Concept	Example
