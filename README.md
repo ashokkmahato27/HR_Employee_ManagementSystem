@@ -14,7 +14,9 @@ emp1 = FullTime("Rahul", "Engineering", 80000, 5)
 emp2 = PartTime("Sonam", "Support", 25, 120)
 emp3 = Intern("Ashok", "IT", 2000)
 
-#Sample Output
+# Sample Output
+
+
 <img width="702" height="823" alt="image" src="https://github.com/user-attachments/assets/4d39b983-2f7e-4378-8a74-e10e3f57f413" />
 <img width="851" height="585" alt="image" src="https://github.com/user-attachments/assets/840bc79e-9692-4462-9279-e4cd75b3bc43" />
 
@@ -32,7 +34,7 @@ emp1.apply_bonus()  # 16000 (20% of salary)
 emp1.get_details()
 # {'name': 'Rahul', 'department': 'Engineering', 'salary': 80000, 'bonus': 16000}
 
-#OOP Concepts
+# OOP Concepts
 Concept	Example
 Class	Employee, FullTime, PartTime, Intern
 Inheritance	FullTime(Employee)
