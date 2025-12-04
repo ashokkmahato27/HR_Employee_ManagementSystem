@@ -1,4 +1,4 @@
-HR Employee Management System
+# HR Employee Management System
 
 A simple Python program demonstrating **Classes, Inheritance, and Polymorphism**.
 
@@ -11,7 +11,9 @@ Manages 3 employee types with different salary and bonus calculations:
 
 # Create employees
 emp1 = FullTime("Rahul", "Engineering", 80000, 5)
+
 emp2 = PartTime("Sonam", "Support", 25, 120)
+
 emp3 = Intern("Ashok", "IT", 2000)
 
 # Sample Output
@@ -24,7 +26,9 @@ emp3 = Intern("Ashok", "IT", 2000)
 
 # Calculate salary (Polymorphism)
 emp1.calculate_salary()  # 80000
+
 emp2.calculate_salary()  # 3000
+
 emp3.calculate_salary()  # 2000
 
 # Apply bonus
