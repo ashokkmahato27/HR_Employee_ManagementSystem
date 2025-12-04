@@ -41,6 +41,7 @@ emp1.get_details()
 
 # OOP Concepts
 Concept          	  Example
+
 Class	              Employee, FullTime, PartTime, Intern
 
 Inheritance	       FullTime(Employee)
