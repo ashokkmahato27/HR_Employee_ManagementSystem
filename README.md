@@ -41,7 +41,7 @@ emp1.get_details()
 
 # OOP Concepts
 | Concept       |        	  Example  |
-| ______________ | ________________________   |
+| ___ | ___ |
 | Class	       |        Employee, FullTime, PartTime, Intern  |
 | Inheritance | FullTime(Employee) |
 | Polymorphism | calculate_salary() works differently for each type |
