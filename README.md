@@ -40,9 +40,9 @@ emp1.get_details()
 {'name': 'Rahul', 'department': 'Engineering', 'salary': 80000, 'bonus': 16000}
 
 # OOP Concepts
-|Concept       |        	  Example                                  |
-______________ | ________________________                            |
-|Class	       |        Employee, FullTime, PartTime, Intern         |
-|Inheritance	 |    FullTime(Employee)                               |
-|Polymorphism  |   calculate_salary() works differently for each type|
-|Dictionary	   |    get_details() returns data as dict               |
+| Concept       |        	  Example  |
+| ______________ | ________________________   |
+| Class	       |        Employee, FullTime, PartTime, Intern  |
+| Inheritance | FullTime(Employee) |
+| Polymorphism | calculate_salary() works differently for each type |
+| Dictionary | get_details() returns data as dict |
